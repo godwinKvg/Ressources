@@ -1,2 +1,5 @@
 https://bestofjs.org/
 https://www.30secondsofcode.org/
+Dev.io
+stackshare.io
+openapi.com
