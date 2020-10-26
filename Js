@@ -1,5 +1,6 @@
-https://bestofjs.org/
-https://www.30secondsofcode.org/
+bestofjs.org/
+www.30secondsofcode.org/
 Dev.to
 stackshare.io
 openapi.com
+devhints.io/
